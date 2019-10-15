@@ -212,7 +212,7 @@
     "license": "GPL-3.0",
     "repository": "https://github.com/limithit/RedisPushIptables",
     "description": "RedisPushIptables is used to update firewall rules to reject the IP addresses for a specified amount of time or forever reject.",
-    "authors": ["Gandalf"],
+    "authors": ["limithit"],
     "stars": 16
   },
 
